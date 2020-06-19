@@ -1,1 +1,1 @@
-# DL_HW_CNN
+# DL_HW_DNN
